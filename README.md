@@ -1,2 +1,2 @@
 # sumi-repo
-"Hello NUST
+Hello NUST
